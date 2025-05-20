@@ -15,7 +15,7 @@ The **Smart Vehicle Detection and Flow Optimizer** is an embedded system designe
 
 ## Hardware Components
 
-1) ESP32-CAM Module (AI Thinker model):** Core processing unit with an integrated camera for image capture.
+1) ESP32-CAM Module (AI Thinker model): Core processing unit with an integrated camera for image capture.
 2) SSD1306 OLED Display:** For real-time display of detection results and system status.
 3) I2C Interface: Communication protocol for the OLED display.
 4) Power Supply: 5V regulated power source to power the ESP32-CAM and display.
